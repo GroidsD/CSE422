@@ -1,0 +1,7 @@
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\Debug\net8.0\PubTmp\Out\CSE422_NguyenThanhDuy_Lab2.exe
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\Debug\net8.0\PubTmp\Out\CSE422_NguyenThanhDuy_Lab2.dll
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\Debug\net8.0\PubTmp\Out\CSE422_NguyenThanhDuy_Lab2.deps.json
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\Debug\net8.0\PubTmp\Out\CSE422_NguyenThanhDuy_Lab2.runtimeconfig.json
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\Debug\net8.0\PubTmp\Out\CSE422_NguyenThanhDuy_Lab2.pdb

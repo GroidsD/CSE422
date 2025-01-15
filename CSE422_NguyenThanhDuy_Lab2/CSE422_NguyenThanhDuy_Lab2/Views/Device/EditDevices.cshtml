@@ -1,0 +1,91 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f4f4f4;
+        color: #333;
+    }
+   
+    .page-title {
+        color: #444;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .form {
+        max-width: 400px;
+        margin: 20px auto;
+        background: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    .form-group {
+        margin-bottom: 15px;
+    }
+    .form-label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+        color: #555;
+    }
+    .form-input {
+        width: 100%;
+        padding: 8px;
+        font-size: 14px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+    }
+    .btn {
+        display: inline-block;
+        font-size: 16px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        padding: 10px;
+        text-align: center;
+        transition: background-color 0.3s ease;
+    }
+    .btn-submit {
+        width: 100%;
+        background-color: #007bff;
+        color: #fff;
+    }
+        .btn-submit:hover {
+            background-color: #0056b3;
+        }
+
+</style>
+@model CSE422_NguyenThanhDuy_Lab2.Models.Device
+
+<h1 class="page-title">Edit Device</h1>
+
+<form asp-action="EditDevices" method="post" class="form">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-input" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Code" class="form-label"></label>
+        <input asp-for="Code" class="form-input" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CategoryId" class="form-label"></label>
+        <input asp-for="CategoryId" class="form-input" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Status" class="form-label"></label>
+        <input asp-for="Status" class="form-input" />
+    </div>
+    <div class="form-group">
+        <label asp-for="DateOfEntry" class="form-label"></label>
+        <input asp-for="DateOfEntry" type="date" class="form-input" />
+    </div>
+    <button type="submit" class="btn btn-submit">Save</button>
+</form>

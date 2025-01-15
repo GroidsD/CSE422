@@ -1,0 +1,156 @@
+﻿
+<style>
+	table {
+		width: 100%;
+		border-collapse: collapse;
+		margin: 20px 0;
+		font-family: Arial, sans-serif;
+	}
+
+	table, th, td {
+		border: 1px solid #ddd;
+	}
+
+	th, td {
+		padding: 12px;
+		text-align: left;
+	}
+
+	th {
+		background-color: #f4f4f4;
+	}
+
+	tr:nth-child(even) {
+		background-color: #f9f9f9;
+	}
+
+	tr:hover {
+		background-color: #f1f1f1;
+	}
+
+	.actions {
+		margin-top: 10px;
+	}
+
+	h1 {
+		font-family: 'Arial', sans-serif;
+		font-size: 24px;
+		margin-bottom: 20px;
+	}
+
+	button {
+		border: none;
+		padding: 8px 15px;
+		margin: 5px;
+		cursor: pointer;
+		border-radius: 5px;
+		font-size: 14px;
+		
+	}
+
+		button:hover {
+			transform: scale(1.05);
+		}
+
+		button:focus {
+			outline: none;
+		}
+
+	.btnAdd{
+		background-color: #007bff;
+	}
+	.edit {
+		color: black;
+		text-decoration: none;
+	}
+
+	.btnEdit{
+		background-color: yellow;
+	}
+
+	.delete {
+		color: white;
+		text-decoration: none;
+	}
+
+	.btnDelete{
+		background-color: red;
+	}
+	.add {
+		color: white;
+		text-decoration: none;
+		
+	}
+</style>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<CSE422_NguyenThanhDuy_Lab2.Models.Device>
+
+<h1>Device</h1>
+<form method="get">
+	<div class="form-group">
+		<label for="searchTerm">Search by Name or Code:</label>
+		<input type="text" id="searchTerm" name="searchTerm" class="form-control" placeholder="Enter device name or code" value="@Context.Request.Query["searchTerm"]" />
+	</div>
+</form>
+<form method="get">
+	<div class="form-group">
+		<label for="categoryId">Filter by Category:</label>
+		<select id="categoryId" name="categoryId" class="form-control" onchange="this.form.submit()">
+			<option value="">All Categories</option>
+			@foreach (var category in (SelectList)ViewBag.Categories)
+			{
+				<option value="@category.Value">@category.Text</option>
+			}
+		</select>
+	</div>
+</form>
+<form method="get">
+	<div class="form-group">
+		<label for="statusFilter">Filter by Status:</label>
+		<select id="statusFilter" name="statusFilter" class="form-control" onchange="this.form.submit()">
+			<option value="">All Statuses</option>
+			@foreach (var status in ViewBag.Statuses)
+			{
+				<option value="@status">@status</option>
+			}
+		</select>
+	</div>
+</form>
+
+<button class="btnAdd"><a class="add" asp-action="AddDevices">Add Device</a></button>
+
+<table>
+	<thead>
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Code</th>
+			<th>Category</th>
+			<th>Status</th>
+			<th>Date of Entry</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var device in Model)
+		{
+			<tr>
+				<td>@device.Id</td>
+				<td>@device.Name</td>
+				<td>@device.Code</td>
+				<td>@device.CategoryId</td>
+				<td>@device.Status</td>
+				<td>@device.DateOfEntry.ToShortDateString()</td>
+				<td>
+					<button class="btnEdit" ><a class="edit" asp-action="EditDevices" asp-route-id="@device.Id" class="edit">Edit</a></button>
+					<button class="btnDelete"><a class="delete" asp-action="DeleteDevices" asp-route-id="@device.Id" class="delete">Delete</a></button>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>

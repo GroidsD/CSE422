@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uku+fV3rTwo=",
+  "success": true,
+  "projectFilePath": "D:\\EIU\\CSE422\\CSE422\\CSE422_NguyenThanhDuy_Lab2\\CSE422_NguyenThanhDuy_Lab2\\CSE422_NguyenThanhDuy_Lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.10\\microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.10.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.10\\microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
