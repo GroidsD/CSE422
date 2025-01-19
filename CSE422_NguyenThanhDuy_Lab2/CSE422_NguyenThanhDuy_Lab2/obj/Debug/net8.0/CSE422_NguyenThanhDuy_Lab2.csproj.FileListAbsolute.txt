@@ -58,3 +58,4 @@ D:\EIU\CSE422\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\D
 D:\EIU\CSE422\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\Debug\net8.0\CSE422_NguyenThanhDuy_Lab2.pdb
 D:\EIU\CSE422\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\Debug\net8.0\CSE422_NguyenThanhDuy_Lab2.genruntimeconfig.cache
 D:\EIU\CSE422\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\Debug\net8.0\ref\CSE422_NguyenThanhDuy_Lab2.dll
+D:\EIU\CSE422\CSE422\CSE422_NguyenThanhDuy_Lab2\CSE422_NguyenThanhDuy_Lab2\obj\Debug\net8.0\CSE422_NguyenThanhDuy_Lab2.sourcelink.json

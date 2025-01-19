@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CSE422_NguyenThanhDuy_Lab3": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

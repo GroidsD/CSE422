@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\bookmanegement\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\bookmanegement\\premiummember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\bookmanegement\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\bookmanegement\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\bookmanegement\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\bookmanegement\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\bookmanegement\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\bookmanegement\\returntransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\interfaces\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\interfaces\\imemberactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\interfaces\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\bookmanegement\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\bookmanegement\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\bookmanegement\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\bookmanegement\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\bookmanegement\\bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\bookmanegement\\bookclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\bookmanegement\\bookrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\bookmanegement\\bookrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\bookmanegement\\advancednotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\bookmanegement\\advancednotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\bookmanegement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\bookmanegement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|d:\\eiu\\cse422\\cse422_nguyenthanhduy_lab3\\cse422_nguyenthanhduy_lab3\\bookmanegement\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5FF1AAA-F0D0-45A3-8BBE-48E449328E2C}|CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3.csproj|solutionrelative:cse422_nguyenthanhduy_lab3\\bookmanegement\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookClass.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BookClass.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BookClass.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BookClass.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BookClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:08:10.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Transaction.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Transaction.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Transaction.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:01:58.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMemberActions.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\Interfaces\\IMemberActions.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\Interfaces\\IMemberActions.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\Interfaces\\IMemberActions.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\Interfaces\\IMemberActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:08:36.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\Interfaces\\IPrintable.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\Interfaces\\IPrintable.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\Interfaces\\IPrintable.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\Interfaces\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:08:38.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\NotificationService.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\NotificationService.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\NotificationService.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:01:14.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BorrowTransaction.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BorrowTransaction.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BorrowTransaction.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BorrowTransaction.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BorrowTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:52:48.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PremiumMember.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\PremiumMember.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\PremiumMember.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\PremiumMember.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\PremiumMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:08:28.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\Program.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\Program.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:56:24.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReturnTransaction.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\ReturnTransaction.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\ReturnTransaction.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\ReturnTransaction.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\ReturnTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:08:30.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Book.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Book.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Book.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Book.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:08:07.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdvancedNotificationService.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\AdvancedNotificationService.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\AdvancedNotificationService.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\AdvancedNotificationService.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\AdvancedNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:08:05.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Member.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Member.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Member.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\Member.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T14:39:12.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRecord.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BookRecord.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BookRecord.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BookRecord.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\BookRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:08:13.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\LibraryCard.cs",
+              "ToolTip": "D:\\EIU\\CSE422\\CSE422_NguyenThanhDuy_Lab3\\CSE422_NguyenThanhDuy_Lab3\\BookManegement\\LibraryCard.cs",
+              "RelativeToolTip": "CSE422_NguyenThanhDuy_Lab3\\BookManegement\\LibraryCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:08:21.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

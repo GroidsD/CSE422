@@ -49,7 +49,7 @@ namespace CSE422_NguyenThanhDuy_Lab2.Controllers
 			}
 
 			// Prepare category list for the dropdown in the view
-			ViewBag.Categories = new SelectList(CategoriesController.GetCategories(), "Id", "Name");
+			ViewBag.Categories = new SelectList(CategoriesController.GetCategories(), "Id","Name");
 
 			ViewBag.Statuses = devices.Select(d => d.Status).Distinct().ToList();
 			// Return the filtered list of devices to the view

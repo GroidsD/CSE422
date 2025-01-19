@@ -1,0 +1,14 @@
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\bin\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.exe
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\bin\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.deps.json
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\bin\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.runtimeconfig.json
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\bin\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.dll
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\bin\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.pdb
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\obj\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\obj\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.AssemblyInfoInputs.cache
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\obj\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.AssemblyInfo.cs
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\obj\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.csproj.CoreCompileInputs.cache
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\obj\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.dll
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\obj\Debug\net8.0\refint\CSE422_NguyenThanhDuy_Lab3.dll
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\obj\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.pdb
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\obj\Debug\net8.0\CSE422_NguyenThanhDuy_Lab3.genruntimeconfig.cache
+D:\EIU\CSE422\CSE422_NguyenThanhDuy_Lab3\CSE422_NguyenThanhDuy_Lab3\obj\Debug\net8.0\ref\CSE422_NguyenThanhDuy_Lab3.dll
